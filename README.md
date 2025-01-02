@@ -61,8 +61,12 @@ The objective is to showcase the basic usage of Redux for state management in Re
 
 ---
 
-## Live Demo
+## Project Snapshot
 ![Live Redux Project](./src/assets/redux-example.gif)
+
+---
+## Live Demo
+[Live Redux Project](https://hellenkuttery.github.io/redux-example/)
 
 ---
 
